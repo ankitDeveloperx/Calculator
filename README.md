@@ -1,4 +1,4 @@
-##Web-Based Calculator
+#Web-Based Calculator
 Project Overview
 This Web-Based Calculator is a dynamic web application designed to perform basic mathematical calculations. Built with JSP, Java Servlets, JavaScript, HTML, and CSS, the calculator offers a smooth and interactive user experience while ensuring efficient backend processing for calculations.
 
